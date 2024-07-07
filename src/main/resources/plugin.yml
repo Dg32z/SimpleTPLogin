@@ -1,0 +1,4 @@
+name: Login-TP
+version: '${project.version}'
+main: org.network.dg32z.logintp.main
+api-version: '1.20'
