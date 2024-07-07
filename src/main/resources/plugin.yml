@@ -1,4 +1,11 @@
-name: Login-TP
-version: '${project.version}'
-main: org.network.dg32z.logintp.main
+name: LoginTP
+version: '1.0'
+main: org.network.dg32z.logintp.Main
 api-version: '1.20'
+author: Dg32z_
+commands:
+  lt:
+    description: "Main command of LoginTeleport"
+    usage: /lt <1>
+    permission: "lt.cmd"
+    permission-message: "您没有权限运行该指令"

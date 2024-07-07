@@ -1,0 +1,10 @@
+languages:
+  notPlayer: "&e[LoginTP] &c您别把控制台当玩家使啊):"
+  setPos: "&e[LoginTP] &a设置成功！"
+  addDone: "&e[LoginTP] &a增加成功!"
+  unknownParameter: "&e[LoginTP] &c未知命令!"
+
+Position:
+  x: 0
+  y: 0
+  z: 0
